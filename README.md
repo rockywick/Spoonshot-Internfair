@@ -9,4 +9,4 @@ b. What is your motivation in the field of Data Science / Machine Learning ?
    I have always been intersted in Computer Science and Mathematics from a young age. Upon exploring Machine Learning, I was fascinated with the field as      it was the perfect intersection of Mathematics and Computer Science. Since then, I have been learning Machine Learning from multiple courses and been      yearning to apply it to real world projects. 
   
 c. If you are given a full time offer as a Data Scientist in Spoonshot what is your dreamproblem which you would like to solve ?
-   If I were given a full time offer as a Data Scientist in Spoonshot, I would love to work on 
+   If I were given a full time offer as a Data Scientist in Spoonshot, I would love to work on analysing food combinations which lead to healthier            lifestyles. Being a sports person, I know the value of truly nutritional food on the human body and would love to be able to work on that to help create    a healthier world.
